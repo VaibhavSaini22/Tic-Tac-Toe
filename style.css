@@ -5,8 +5,8 @@
 }
 
 nav{
-    background-color: darkcyan;
-    color: peachpuff;
+    background-color: rgb(16, 24, 24);
+    color: rgb(252, 226, 204);
     height: 70px;
     font-size: 30px;
     display: flex; 
